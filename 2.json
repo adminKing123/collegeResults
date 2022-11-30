@@ -1,0 +1,72 @@
+[
+  {
+    "Subject Code": "BT201[T]",
+    "Subject Name": "Engineering Physics",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT202[T]",
+    "Subject Name": "Mathematics-II",
+    "Total Credit": 4,
+    "Credit Earned": 4,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT203[T]",
+    "Subject Name": "Basic Mechanical Engineering",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT204[T]",
+    "Subject Name": "Basic Civil Engineering & Mechanics",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT205[T]",
+    "Subject Name": "Basic Computer Engineering",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT201[P]",
+    "Subject Name": "Engineering Physics",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT203[P]",
+    "Subject Name": "Basic Mechanical Engineering",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "BT204[P]",
+    "Subject Name": "Basic Civil Engineering & Mechanics",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "BT205[P]",
+    "Subject Name": "Basic Computer Engineering",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "BT206[P]",
+    "Subject Name": "Language Lab & Seminars",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A+"
+  }
+]

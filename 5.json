@@ -1,0 +1,72 @@
+[
+  {
+    "Subject Code": "CS501[T]",
+    "Subject Name": "Theory of Computation",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "CS502[T]",
+    "Subject Name": "Database Management Systems",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS503[T]",
+    "Subject Name": "Departmental Elective(Data Analytics)",
+    "Total Credit": 4,
+    "Credit Earned": 4,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS504[T]",
+    "Subject Name": "Open Elective(Internet and Web Technology)",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "BT407[P]",
+    "Subject Name": "Evaluation of Internship-II",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS501[P]",
+    "Subject Name": "Theory of Computation",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "CS502[P]",
+    "Subject Name": "Database Management Systems",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "CS505[P]",
+    "Subject Name": "Lab(Linux)",
+    "Total Credit": 2,
+    "Credit Earned": 2,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "CS506[P]",
+    "Subject Name": "Lab(Python)",
+    "Total Credit": 2,
+    "Credit Earned": 2,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS508[P]",
+    "Subject Name": "Minor Project-I",
+    "Total Credit": 2,
+    "Credit Earned": 2,
+    "Grade": "B+"
+  }
+]

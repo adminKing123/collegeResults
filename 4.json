@@ -1,0 +1,72 @@
+[
+  {
+    "Subject Code": "BT401[T]",
+    "Subject Name": "Mathematics-III",
+    "Total Credit": 4,
+    "Credit Earned": 4,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "CS402[T]",
+    "Subject Name": "Analysis Design of Algorithm",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS403[T]",
+    "Subject Name": "Software Engineering",
+    "Total Credit": 4,
+    "Credit Earned": 4,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS404[T]",
+    "Subject Name": "Computer Org & Architecture",
+    "Total Credit": 4,
+    "Credit Earned": 4,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS405[T]",
+    "Subject Name": "Operating Systems",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS402[P]",
+    "Subject Name": "Analysis Design of Algorithm",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS403[P]",
+    "Subject Name": "Software Engineering",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS404[P]",
+    "Subject Name": "Computer Org. & Architecture",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "CS405[P]",
+    "Subject Name": "Operating Systems",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "CS406[P]",
+    "Subject Name": "Programming Practices",
+    "Total Credit": 2,
+    "Credit Earned": 2,
+    "Grade": "A+"
+  }
+]

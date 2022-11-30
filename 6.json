@@ -1,0 +1,65 @@
+[
+  {
+    "Subject Code": "CS601[T]",
+    "Subject Name": "Machine Learning",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS602[T]",
+    "Subject Name": "Computer Networks",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "B"
+  },
+  {
+    "Subject Code": "CS603[T]",
+    "Subject Name": "Departmental Elective",
+    "Total Credit": 4,
+    "Credit Earned": 4,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS604[T]",
+    "Subject Name": "Open Elective",
+    "Total Credit": 4,
+    "Credit Earned": 4,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS601[P]",
+    "Subject Name": "Machine Learning",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS602[P]",
+    "Subject Name": "Computer Networks",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS605[P]",
+    "Subject Name": "Data Analytics Lab",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS606[P]",
+    "Subject Name": "Skill Development Lab",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS608[P]",
+    "Subject Name": "Minor Project II",
+    "Total Credit": 2,
+    "Credit Earned": 2,
+    "Grade": "A+"
+  }
+]

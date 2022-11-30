@@ -1,0 +1,79 @@
+[
+  {
+    "Subject Code": "BT101[T]",
+    "Subject Name": "Engineering Chemistry",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT102[T]",
+    "Subject Name": "Mathematics-I",
+    "Total Credit": 4,
+    "Credit Earned": 4,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT103[T]",
+    "Subject Name": "English for Communication",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "BT104[T]",
+    "Subject Name": "Basic Electrical & Electronics Enginnering",
+    "Total Credit": 2,
+    "Credit Earned": 2,
+    "Grade": "C+"
+  },
+  {
+    "Subject Code": "BT105[T]",
+    "Subject Name": "Engineering Graphics",
+    "Total Credit": 2,
+    "Credit Earned": 2,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "BT101[P]",
+    "Subject Name": "Engineering Chemistry",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT103[P]",
+    "Subject Name": "English for Communication",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT104[P]",
+    "Subject Name": "Basic Electrical & Electronics Enginnering",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "BT105[P]",
+    "Subject Name": "Engineering Graphics",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "BT106[P]",
+    "Subject Name": "Manufacturing Practices",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "BT108[P]",
+    "Subject Name": "Swachh Bharat Unnat Bharat Abhiyan/Rural Outreach",
+    "Total Credit": 2,
+    "Credit Earned": 2,
+    "Grade": "A+"
+  }
+]

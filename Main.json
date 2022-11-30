@@ -1,0 +1,42 @@
+[
+  {
+    "Semester": 1,
+    "SGPA": 8.57,
+    "CGPA": 8.57
+  },
+  {
+    "Semester": 2,
+    "SGPA": 9.19,
+    "CGPA": 8.88
+  },
+  {
+    "Semester": 3,
+    "SGPA": 9.04,
+    "CGPA": 8.93
+  },
+  {
+    "Semester": 4,
+    "SGPA": 9.13,
+    "CGPA": 8.98
+  },
+  {
+    "Semester": 5,
+    "SGPA": 9.04,
+    "CGPA": 8.99
+  },
+  {
+    "Semester": 6,
+    "SGPA": 8.96,
+    "CGPA": 8.98
+  },
+  {
+    "Semester": 7,
+    "SGPA": "",
+    "CGPA": 8.98
+  },
+  {
+    "Semester": 8,
+    "SGPA": "",
+    "CGPA": 8.98
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Subject Code": "CS302[T]",
+    "Subject Name": "Discrete Structure",
+    "Total Credit": 4,
+    "Credit Earned": 4,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS303[T]",
+    "Subject Name": "Data Structure",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS304[T]",
+    "Subject Name": "Digital Systems",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "CS305[T]",
+    "Subject Name": "Object Oriented Programming & Methadology",
+    "Total Credit": 3,
+    "Credit Earned": 3,
+    "Grade": "A"
+  },
+  {
+    "Subject Code": "ES301[T]",
+    "Subject Name": "Energy & Environmental Engineering",
+    "Total Credit": 4,
+    "Credit Earned": 4,
+    "Grade": "B+"
+  },
+  {
+    "Subject Code": "BT107[P]",
+    "Subject Name": "Evaluation of Internship-I",
+    "Total Credit": 2,
+    "Credit Earned": 2,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS303[P]",
+    "Subject Name": "Data Structure",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS304[P]",
+    "Subject Name": "Digital Systems",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS305[P]",
+    "Subject Name": "Object Oriented Programming & Methadology",
+    "Total Credit": 1,
+    "Credit Earned": 1,
+    "Grade": "A+"
+  },
+  {
+    "Subject Code": "CS306[P]",
+    "Subject Name": "Computer Workshop",
+    "Total Credit": 2,
+    "Credit Earned": 2,
+    "Grade": "A"
+  }
+]
